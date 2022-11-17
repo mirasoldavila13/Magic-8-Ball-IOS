@@ -13,7 +13,8 @@ class ViewController: UIViewController {
     
 
     @IBAction func askButtonPressed(_ sender: Any) {
-        
+        let ballAray = [UIImage(imageLiteralResourceName: "ball1"),UIImage(imageLiteralResourceName: "ball2"),UIImage(imageLiteralResourceName: "ball3"),UIImage(imageLiteralResourceName: "ball4"),UIImage(imageLiteralResourceName: "ball5")]
+       
     }
     
 
